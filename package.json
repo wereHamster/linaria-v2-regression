@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^11.0.2",
+    "@rollup/plugin-node-resolve": "^7.1.1",
+    "linaria": "^2.0.0-alpha.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "rollup": "^2.0.0",
+    "rollup-plugin-babel": "^4.3.3"
+  }
+}
